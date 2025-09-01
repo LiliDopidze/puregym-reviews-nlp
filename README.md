@@ -2,7 +2,7 @@
 Extracted insights using Falcon-7B, BERTopic, and LDA to inform customer experience improvements.
 
 ## Quickstart
-1. Open `00-demo.ipynb` in Google Colab
+1. Open `00-demo.puregym.nlp.ipynb` in Google Colab
 2. Run all cells top to bottom
 3. Explore plots and results
 
